@@ -1,7 +1,6 @@
 {
   "workbench.colorTheme": "Panda Syntax",
   "python.linting.pylintEnabled": true,
-  "python.pythonPath": "/Users/simone/Documents/dev/venv/bin/python",
   "workbench.iconTheme": "material-icon-theme",
   "editor.wordWrap": "on",
   "[html]": {
